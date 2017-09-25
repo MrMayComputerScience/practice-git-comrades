@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Step one is to sneak into the teacher's lounge.
 AP Shortbus
+=======
+Step one is to sneak into the AP Coffee Cart classroom.
+>>>>>>> 88b674f112ccb0ca20b12fb3017011d0f4747a86
